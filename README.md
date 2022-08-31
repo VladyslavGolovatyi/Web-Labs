@@ -12,3 +12,6 @@ Requirements:
 - All class names must not be meaningless (i.e. class=”myClass”) and should follow the same naming convention, preferably BEM, but you could come up with your own (just be consistent)
 - Basic cross-browser support (website should look correctly on last versions of modern browsers (Chrome, Safari, Edge)
 - For now, responsiveness is not required.
+
+
+6 variant: https://www.figma.com/file/wmMTQTdBymNHxX8ew0mG45/LabWork1-V6

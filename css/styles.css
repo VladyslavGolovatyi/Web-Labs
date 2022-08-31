@@ -76,7 +76,7 @@ nav ul {
 }
 
 .hero__text {
-    padding-right: 12vw;
+    padding-right: 14.5vw;
     width: 40vw;
 }
 
@@ -213,11 +213,11 @@ button.section1-info__read-more {
     line-height: 2.2vw;
     width: 15.5vw;
     height: 6.6vw;
+    opacity: 0.7;
 }
 
 .footer {
     padding: 2vw 5vw;
-    font-weight: 500;
     font-size: 1.2vw;
     line-height: 1.4vw;
     display: flex;
