@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="css/custom.css" />
+  <title>Edit phone</title>
+</head>
+<body>
+<h1>Edit phone</h1>
+<main>
+  Model : <label for="modelField" id = "modelLabel"></label><input type="text" id="modelField">
+  <br><br>
+  Price: <label for="priceField" id = "priceLabel"></label><input type="number" id = "priceField">
+  <button style="margin-top: 20px;" onclick="editPhone()">Submit</button>
+  <button style="margin-top: 20px;" onclick="toMainPage()">Back</button>
+</main>
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content" id="modal-content">
+    <span class="close">&times;</span>
+  </div>
+
+</div>
+
+<script src="js/edit.js"></script>
+</body>
+</html>
