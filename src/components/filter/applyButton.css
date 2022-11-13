@@ -1,0 +1,14 @@
+.applyButton {
+    background-color: white;
+    margin: auto 2vw auto auto;
+    width: 12vw;
+    height: 3vw;
+    border-radius: 0.5vw;
+    border-width: 0.1vw;
+    border-color: black;
+}
+
+.applyButton:hover {
+    background-color: gainsboro;
+    cursor: pointer;
+}
